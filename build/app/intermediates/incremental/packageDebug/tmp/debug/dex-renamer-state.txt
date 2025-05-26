@@ -1,0 +1,4 @@
+#Sun Mar 27 21:18:04 IST 2022
+base.0=E\:\\flutter\\poshan\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
